@@ -7,6 +7,18 @@
         <mxCell id="879zOUtCN59q9o2sr7Zd-0" value="开始" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="490" width="93" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="879zOUtCN59q9o2sr7Zd-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.67;entryY=1.01;rounded=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="879zOUtCN59q9o2sr7Zd-8" target="879zOUtCN59q9o2sr7Zd-3">
+          <mxGeometry x="0.7076" y="-63" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="880" />
+              <mxPoint x="320" y="1371" />
+              <mxPoint x="450" y="770" />
+              <mxPoint x="430" y="840" />
+              <mxPoint x="320" y="955" />
+            </Array>
+            <mxPoint x="66" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="879zOUtCN59q9o2sr7Zd-1" value="读取地图数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="199" y="585" width="145" height="145" as="geometry" />
         </mxCell>
@@ -79,18 +91,6 @@
             <Array as="points">
               <mxPoint x="222" y="1371" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="879zOUtCN59q9o2sr7Zd-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.67;entryY=1.01;rounded=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="879zOUtCN59q9o2sr7Zd-8" target="879zOUtCN59q9o2sr7Zd-3">
-          <mxGeometry x="0.7076" y="-63" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="880" />
-              <mxPoint x="320" y="1371" />
-              <mxPoint x="450" y="770" />
-              <mxPoint x="430" y="840" />
-              <mxPoint x="320" y="955" />
-            </Array>
-            <mxPoint x="66" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="879zOUtCN59q9o2sr7Zd-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="879zOUtCN59q9o2sr7Zd-8" target="879zOUtCN59q9o2sr7Zd-9">
