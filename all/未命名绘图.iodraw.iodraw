@@ -17,10 +17,10 @@
           <mxGeometry x="201" y="882" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="879zOUtCN59q9o2sr7Zd-4" value="选择" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="176" y="980" width="94" height="48" as="geometry" />
+          <mxGeometry x="80" y="990" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="879zOUtCN59q9o2sr7Zd-5" value="交叉" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="176" y="1079" width="93" height="48" as="geometry" />
+          <mxGeometry x="210" y="1038" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="879zOUtCN59q9o2sr7Zd-6" value="变异" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="176" y="1200" width="92" height="48" as="geometry" />
